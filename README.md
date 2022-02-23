@@ -1,5 +1,3 @@
-<!--# 👉️👉️👉️ [포트폴리오 바로가기 (Click!)](https://slime-sky-a6b.notion.site/c148d6e17fd045cb8f2e1e180a3c648f) 👈️👈️👈️-->
-
 <!--
 **yuuuzzzin/yuuuzzzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,35 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋🏻 Hi there  
+### Hi there 👋   
 
-<br>
+ - 💻   **I'm a Android Develover**     
 
-<div id="main" align="left">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=yuuuzzzin&hide=issues&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuuzzzin&hide=issues,stars&count_private=true&show_icons=true) 
 
------
-
-## 👩🏻‍💻 Skills 
+### 🛠 Skills 
 
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
-## Tech-Blog
+### 👩🏻‍💻 Tech Blog
 
-<a href="https://velog.io/@yuuuzzzin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@yuuuzzzin"/></a>
+<a href="https://velog.io/@yuuuzzzin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yuuuzzzin"/></a>
 
-## 🙋🏻‍♀️ Contact me
+### 🆕 My Latest Post
 
-<div align="left">
-    <a href="mailto:uiuiui118437@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-</div>
-
-#### My Latest Post
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuuuzzzin)](https://velog-readme-stats.vercel.app/api/redirect?name=l2hyunwoo)
+
+### 🙋🏻‍♀️ Contact me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:yuuuzzzin@gmail.com)
