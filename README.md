@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 👩🏻‍💻 Tech Blog
 
-<a href="https://velog.io/@yuuuzzzin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yuuuzzzin"/></a>
+<a href="https://velog.io/@yuuuzzzin"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yuuuzzzin"/></a>
 
 ### 🆕 My Latest Post
 
