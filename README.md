@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@yuuuzzzin"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yuuuzzzin"/></a>
 
-### 🆕 My Latest Post
+New Post!
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuuuzzzin)](https://velog-readme-stats.vercel.app/api/redirect?name=l2hyunwoo)
 
