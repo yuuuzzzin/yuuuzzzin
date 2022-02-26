@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 New Post!
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuuuzzzin)](https://velog-readme-stats.vercel.app/api/redirect?name=l2hyunwoo)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuuuzzzin)](https://velog-readme-stats.vercel.app/api/redirect?name=yuuuzzzin)
 
 ### 🙋🏻‍♀️ Contact me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:yuuuzzzin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuuuzzzin@gmail.com)](mailto:yuuuzzzin@gmail.com)
