@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  - 💻   **I'm a Android Develover**     
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuuzzzin&hide=issues,stars&count_private=true&show_icons=true) 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuuzzzin&hide=issues,stars&count_private=true&show_icons=true)  -->
 
 ### 🛠 Skills 
 
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### 👩🏻‍💻 Tech Blog
 
 <a href="https://velog.io/@yuuuzzzin"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yuuuzzzin"/></a>
-
+<!-- 
 New Post!
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuuuzzzin)](https://velog-readme-stats.vercel.app/api/redirect?name=yuuuzzzin)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuuuzzzin)](https://velog-readme-stats.vercel.app/api/redirect?name=yuuuzzzin) -->
 
 ### 🙋🏻‍♀️ Contact me
 
